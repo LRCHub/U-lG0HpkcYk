@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Made in Abyss",
+  "base_artist": "Kevin Penkin",
+  "createdAt": "2026-03-22T15:24:15.343822Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Deep in Abyss (Made in Abyss)",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/01_Deep_in_Abyss_(Made_in_Abyss)_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Made In Abyss (feat. Baker Ya Maker)",
+      "artist": "Purely blue",
+      "has_synced": false,
+      "path": "select/02_Made_In_Abyss_(feat._Baker_Ya_Maker)_Purely_blue.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Made In Abyss",
+      "artist": "Purely Blue",
+      "has_synced": false,
+      "path": "select/03_Made_In_Abyss_Purely_Blue.txt"
+    }
+  ]
+}
